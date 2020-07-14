@@ -20,6 +20,6 @@ public class MainClass {
         excercise.sortXYZ(3,2,1);
 
         excercise.printDigit();
-        
+
     }
 }
