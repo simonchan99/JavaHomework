@@ -8,7 +8,7 @@ public class MainClass {
         excercise.getGrade(96);
 
         excercise.getParity(2);
-
+        
         excercise.verifyNumber(1);
 
         excercise.divisibleBy(30);
