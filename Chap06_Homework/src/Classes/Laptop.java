@@ -10,4 +10,7 @@ public class Laptop {
         this.laptopModel = laptop_model;
         this.cpuModel = cpu_model;
     }
+    public void printInfo(){
+        System.out.println("Laptop model: "+ laptopModel + "CPU model: "+ cpuModel);
+    }
 }

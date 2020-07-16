@@ -21,6 +21,7 @@ public class TestClass {
 
         //第三题
         Laptop macbook = new Laptop("MacBook","i5-6527U");
+        macbook.printInfo();
 
         //第四题
         Person zhangsan = new PersonCreate("zhangsan",1.73,56);
@@ -31,6 +32,5 @@ public class TestClass {
         //第五题
         Person wangwu = new Constructor("wangwu",1.75,55);
         wangwu.sayHello();
-
     }
 }

@@ -8,6 +8,7 @@ public class SalesEmployee extends ColaEmployee {
         this.monthSalesFigure = monthSalesFigure;
         this.bonusRate = bonusRate;
     }
+    //
     public double getSalary(int month) {
         if(super.staffBirthMonth == month) {
             return monthSalesFigure * bonusRate + 100;
