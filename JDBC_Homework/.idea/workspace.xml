@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de2a47f-47de-424e-8a04-4cde2c5a4648" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC_Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserDAOImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1enFJFQ74UtFf6txUfcbv29pPyP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="JDBC_Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de2a47f-47de-424e-8a04-4cde2c5a4648" name="Default Changelist" comment="" />
+      <created>1594949375975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594949375975</updated>
+      <workItem from="1594949377556" duration="6103000" />
+      <workItem from="1594966474666" duration="3838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1594954485711">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="365" y="145" key="#com.intellij.ide.util.MemberChooser/0.25.1440.801@0.25.1440.801" timestamp="1594954485711" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom" timestamp="1594970240311">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1063" height="203" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1594953481550" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom/0.25.1440.805/-1112.25.1112.809@0.25.1440.805" timestamp="1594968619812" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom/0.25.1440.807/-1112.25.1112.809@0.25.1440.807" timestamp="1594970240311" />
+    <state width="1063" height="203" key="GridCell.Tab.0.bottom/0.25.1440.875/-1112.25.1112.752@0.25.1440.875" timestamp="1594965972366" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom/0.25.1440.875/-1112.25.1112.753@0.25.1440.875" timestamp="1594968394265" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center" timestamp="1594970240309">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1063" height="203" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1594953481549" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center/0.25.1440.805/-1112.25.1112.809@0.25.1440.805" timestamp="1594968619807" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center/0.25.1440.807/-1112.25.1112.809@0.25.1440.807" timestamp="1594970240309" />
+    <state width="1063" height="203" key="GridCell.Tab.0.center/0.25.1440.875/-1112.25.1112.752@0.25.1440.875" timestamp="1594965972365" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center/0.25.1440.875/-1112.25.1112.753@0.25.1440.875" timestamp="1594968394263" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left" timestamp="1594970240308">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1063" height="203" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1594953481548" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left/0.25.1440.805/-1112.25.1112.809@0.25.1440.805" timestamp="1594968619806" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left/0.25.1440.807/-1112.25.1112.809@0.25.1440.807" timestamp="1594970240308" />
+    <state width="1063" height="203" key="GridCell.Tab.0.left/0.25.1440.875/-1112.25.1112.752@0.25.1440.875" timestamp="1594965972363" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left/0.25.1440.875/-1112.25.1112.753@0.25.1440.875" timestamp="1594968394262" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right" timestamp="1594970240310">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1063" height="203" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1594953481549" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right/0.25.1440.805/-1112.25.1112.809@0.25.1440.805" timestamp="1594968619808" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right/0.25.1440.807/-1112.25.1112.809@0.25.1440.807" timestamp="1594970240310" />
+    <state width="1063" height="203" key="GridCell.Tab.0.right/0.25.1440.875/-1112.25.1112.752@0.25.1440.875" timestamp="1594965972365" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right/0.25.1440.875/-1112.25.1112.753@0.25.1440.875" timestamp="1594968394264" />
+    <state x="208" y="25" key="SettingsEditor" timestamp="1594949590167">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="208" y="25" key="SettingsEditor/0.25.1440.801@0.25.1440.801" timestamp="1594949590167" />
+  </component>
+</project>
